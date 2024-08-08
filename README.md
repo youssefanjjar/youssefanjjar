@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/youssefanjjar?label=Follow&style=social)](https://github.com/youssefanjjar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/youssef-anjjar-039057204/)
-[![X | Twitter](https://img.shields.io/badge/-Follow-blue?style=social&logo=twitter)](https://x.com/AnjjarYoussef)
+[![X | Twitter](https://img.shields.io/badge/X-Connect-blue?style=social&logo=x&logoColor=white)](https://x.com/AnjjarYoussef)
 
 ---
 
@@ -52,7 +52,7 @@
 ## Connect with Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-anjjar-039057204/)
-[![X | Twitter](https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/AnjjarYoussef)
+[![X | Twitter](https://img.shields.io/badge/X-Connect-blue?style=social&logo=x&logoColor=white)](https://x.com/AnjjarYoussef)
 
 ---
 
