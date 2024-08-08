@@ -36,19 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefanjjar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefanjjar&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=youssefanjjar&theme=onedark)
-
----
-
 ## Connect with Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-anjjar-039057204/)
