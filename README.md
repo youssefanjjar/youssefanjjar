@@ -8,9 +8,9 @@
 
 ## About Me 🧑‍💻
 
-- 🌱 I’m currently learning and exploring new technologies.
+- 🌱 I’m interessted in learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 💬 Ask me about software development, web technologies, or anything tech-related!
+- 💬 Ask me about software development, web technologies, data science, or anything tech-related!
 - 📫 How to reach me: [youssefanjjar@gmail.com](mailto:youssefanjjar@gmail.com).
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality.
 
