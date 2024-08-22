@@ -8,11 +8,11 @@
 
 ## About Me 🧑‍💻
 
-- 🌱 I’m interessted in learning and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 🌱 I am passionate about learning and exploring cutting-edge technologies. With a strong foundation in software development, web technologies, and data science, I am always eager to take on new challenges and contribute to innovative projects.
+- 👯 I am actively seeking opportunities to collaborate on open-source projects and innovative ideas. If you're working on something exciting, let's connect!
 - 💬 Ask me about software development, web technologies, data science, or anything tech-related!
 - 📫 How to reach me: [youssefanjjar@gmail.com](mailto:youssefanjjar@gmail.com).
-- ⚡ Fun fact: I love solving complex problems and turning ideas into reality.
+- ⚡ Fun fact: The more complex a challenge, the more I enjoy tackling it! Hahahaaaah.
 
 ---
 
