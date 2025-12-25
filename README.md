@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
-**youssefanjjar/youssefanjjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer science student interested in building things from the ground up.  
+The more complex and difficult the problem is, the faster i fall in love with it ( and suffer a little 🤣).
 
-Here are some ideas to get you started:
+## Quick brief
+- Strong interest in **mathematics**
+- Passionate about **embedded systems** and **operating system development**
+- Exploring **artificial intelligence** and **automation**
+- Enjoys low-level and performance-oriented programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorite programming languages
+- Assembly
+- C
+- C++
+- Python
+
+## Spoken languages
+- Amazigh — native
+- Arabic — C1
+- French — B2
+- English — C1
