@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-I’m a computer science student interested in building things from the ground up.  
+I’m a computer science professional interested in building things from the ground up.  
 The more complex and difficult the problem is, the faster i fall in love with it ( and suffer a little 🤣).
 
 ## Quick brief
